@@ -6,13 +6,13 @@
 }
 
 body {
+  font-family: Public Sans, Arial, Helvetica, sans-serif;
   background-image: url('img/stars.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: white; /* Optional: helps with text visibility */
-  font-family: "Segoe UI", Arial, sans-serif;
   color: #ffffff;
   padding: 20px;
 }
@@ -40,7 +40,7 @@ body {
 }
 
 #spaceFact {
-  font-family: "Segoe UI", Arial, sans-serif;
+  font-family: Public Sans, Arial, Helvetica, sans-serif;
   background-color: rgba(0, 0, 0, 0.406); /* dark blue with transparency */
   color: #d0d9f7; /* soft light blue text */
   padding: 12px 20px;
@@ -62,7 +62,7 @@ body {
 }
 
 h1 {
-  font-family: 'Verdana', sans-serif;
+  font-family: Public Sans, Arial, Helvetica, sans-serif;
   font-weight: bold;
   color: #ffffff;
   margin: 0; /* reset margin */
@@ -159,6 +159,7 @@ button:hover {
 
 /* Modal styles */
 .modal {
+  font-family: Public Sans, Arial, Helvetica, sans-serif;
   position: fixed;
   top: 0;
   left: 0;
@@ -174,6 +175,7 @@ button:hover {
   display: none;
 }
 .modal-content {
+  font-family: Public Sans, Arial, Helvetica, sans-serif;
   background-color: #111;
   padding: 20px;
   border-radius: 10px;
